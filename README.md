@@ -1,6 +1,16 @@
 # PIX_ORCHESTRED_DATABASE
 
+# INTERFACE
+
 <img width="1190" height="641" alt="image" src="https://github.com/user-attachments/assets/921309ed-ff47-4bca-9208-c99888b698de" />
+
+# DIRETÓRIO
+
+<img width="622" height="141" alt="image" src="https://github.com/user-attachments/assets/45756823-d182-45c8-a7a2-500e3533a82c" />
+
+# DATABASE (pasta backups)
+
+<img width="621" height="343" alt="image" src="https://github.com/user-attachments/assets/7bb71519-33dd-4c7b-933a-d5aef0ee60b6" />
 
 ---
 
