@@ -26,6 +26,8 @@ Recupera automaticamente períodos não monitorados
 
 Configuração máxima de dias para recuperação 
 
+obs: adc banco, agencia e conta para saldos desviados via física
+
 ---
 
 Busca de Dados Reais:
