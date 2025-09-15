@@ -1,5 +1,7 @@
 # PIX_ORCHESTRED_DATABASE
 
+<img width="100" height="100" alt="spyder" src="https://github.com/user-attachments/assets/a073c345-c04a-4411-8d2b-d8e3941f0d5a" />
+
 # INTERFACE
 
 <img width="1190" height="641" alt="image" src="https://github.com/user-attachments/assets/921309ed-ff47-4bca-9208-c99888b698de" />
