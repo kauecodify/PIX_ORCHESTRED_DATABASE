@@ -84,5 +84,4 @@ Definir limite máximo de dias para recuperação
 
 Forçar recuperação manual quando necessário
 
-acumulação de dados mesmo quando não está rodando, 
-utilizando a API oficial do BCB Olinda para obter dados reais de transações Pix.
+acumulação de dados mesmo quando não está rodando.
